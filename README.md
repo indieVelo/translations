@@ -10,6 +10,33 @@ Contributions are warmly welcomed from the entire community - both for correctio
 
 Please feel free to join the [indieVelo Discord](https://discord.gg/nY5u74u7Ak) to chat and share any thoughts, ideas or suggestions on translations (or anything else!). 
 
+# Current Languages
+Currently indieVelo supports the following languages (note that the 2-2 letter codes are ISO standard country-locales):
+* da-DK : Danish
+* de-DE : German
+* en-GB : English
+* es-ES : Spanish
+* fr-FR : French
+* pl-PL : Polish
+* sl-SL : Slovenian
+* sv-SE : Swedish
+* zh-TW : Chinese (Traditional)
+
+The most requested additional languages we're aiming to add as soon as possible are (in rough order of number of riders):
+* Italian
+* Flemish
+* Dutch
+* Portuguese
+* Austrian
+* Korean
+* Norwegian
+* Russian
+* Japanese
+* Finnish
+* Hungarian
+
+Any other translations however would be very gratefully received!
+
 # How-To
 To make a contribution:
 
