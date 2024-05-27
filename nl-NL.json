@@ -111,7 +111,7 @@
   "menu.profileavatar.title": "PAS JE AVATAR AAN",
   "menu.profileconnectaccounts.title": "ACCOUNTS KOPPELEN",
   "menu.profilecp.title": "KRITISCH VERMOGEN",
-  "menu.profilefollow.title": "VOLG FRIENDEN",
+  "menu.profilefollow.title": "VOLG VRIENDEN",
   "menu.profileftp.title": "FTP",
   "menu.profilehistoryactivities.title": "ACTIVITEITEN HISTORIE",
   "menu.profilehistoryevents.title": "RACE HISTORIE",
@@ -192,7 +192,7 @@
   "menu.hub.sort.distance": "Sorteer op Afstand",
   "menu.hub.sort.duration": "Sorteer op Duur",
   "menu.hub.sort.name": "Sorteer op Naam",
-  "menu.hub.sort.stress": "Sorteer op Spanning",
+  "menu.hub.sort.stress": "Sorteer op Intensiteit",
 
   "menu.hub.button.pairing": "KOPPEL UITRUSTING",
   "menu.hub.button.orgteam": "ORGANIZEER TEAMS",
