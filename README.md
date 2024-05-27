@@ -49,11 +49,11 @@ To make a contribution:
 4. Edit any files as needed.
    * Select the files, then click on the pencil icon to edit.
    * If you are updating someone else's translation for anything other than obvious typos, please chat about it first on the indieVelo Discord.
-   * Please note that then "en-GB" file is the primary translation and should not be edited (unless you spot a typo!).  Any translations into other languages should use this as the reference point for the meaning and intent for each phrase.
+   * Please note that the "en-GB" file is the primary translation and should not be edited (unless you spot a typo!).  Any translations into other languages should use this as the reference point for the meaning and intent for each phrase.  If adding a new language, take a copy of the contents of the "en-GB" file, rename it to the new language and then edit the new file directly.
 
 5. Commit the update.
    * This only changes your own private copy of the files, not the main copies stored here.
-   * Click on the big "Commit Update" button that appears after you edit the file.
+   * Click on the "Commit Update" button that appears after you edit the file.
    * Note that you can make multiple edits and multiple commits before actually submitting any changes as below.
      
 6. Create a pull request.
