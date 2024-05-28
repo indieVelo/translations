@@ -19,6 +19,7 @@ Currently indieVelo supports the following languages (note that the 2-2 letter c
 * fr-FR : French
 * nl-NL : Dutch
 * pl-PL : Polish
+* pt-PT : Portugeuse
 * sl-SL : Slovenian
 * sv-SE : Swedish
 * zh-TW : Chinese (Traditional)
@@ -26,7 +27,6 @@ Currently indieVelo supports the following languages (note that the 2-2 letter c
 The most requested additional languages we're aiming to add as soon as possible are (in rough order of number of riders):
 * Italian
 * Flemish
-* Portuguese
 * Austrian
 * Korean
 * Norwegian
@@ -35,7 +35,7 @@ The most requested additional languages we're aiming to add as soon as possible 
 * Finnish
 * Hungarian
 
-Any other translations however would be very gratefully received!
+Any other translations however would also be very gratefully received!
 
 # How-To
 To make a contribution:
