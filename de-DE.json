@@ -266,7 +266,7 @@
   "menu.profileftp.newrider": "Neue/r Fahrer/in",
   "menu.profileftp.commuter": "Pendler/in",
   "menu.profileftp.racingaverage": "Rennen Durchschnitt",
-  "menu.profileftp.welcome": "Functional Threshold Power (FTP - Funktionale Schwellenleistung) ist die maximale Leistung, die Sie 1 Stunde lang erbringen können. Dies ist ein nützliches Maß für Ihre Kraft und Fitness. indieVelo verwendet es, um den Schwierigkeitsgrad von Trainingseinheiten festzulegen und visuelle Rückmeldung darüber zu geben, wie hart Sie trainieren.",
+  "menu.profileftp.welcome": "Functional Threshold Power (FTP - Funktionale Schwellenleistung) ist die maximale Leistung, die Sie 1 Stunde lang erbringen können. Der Wert ist ein Mass für Ihre Kraft und Fitness. indieVelo verwendet es, um den Schwierigkeitsgrad von Trainingseinheiten festzulegen und visuelle Rückmeldung darüber zu geben, wie hart Sie trainieren.",
   "menu.profileftp.welcomeestimate": "Wenn Sie nicht wissen, wie hoch Ihr FTP-Wert ist, verwenden Sie bitte die folgenden Angaben als grobe Schätzung.",
   "menu.profileftp.welcomeinstructions": "Zunächst einmal ist es besser, eine zu niedrige Schätzung vorzunehmen, als eine zu hohe.",
 
