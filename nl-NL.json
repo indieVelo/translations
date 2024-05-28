@@ -144,13 +144,13 @@
   "menu.worldexit.title": "VERLAAT WERELD",
   "menu.worldjoin.title": "AANSLUITEN BIJ VRIENDEN & TEAMLEDEN",
   "menu.worldjoinevent.title": "GA NAAR PEN",
-  "menu.worldnetworkdropout.title": "NETWERK FOUT",
+  "menu.worldnetworkdropout.title": "NETWERKFOUT",
   "menu.worldnetworkfailed.title": "CONNECTIE MISLUKT",
   "menu.worldrank.title": "RACE KLASSEMENT",
   "menu.worldrecords.title": "GEFELICITEERD",
   "menu.worldoptions.title": "REVIEW",
   "menu.worldpenclosed.title": "PEN GESLOTEN",
-  "menu.worlduturn.title": "U-Bocht",
+  "menu.worlduturn.title": "U-BOCHT",
 
   "menu.hub.tab.ride": "RIT",
   "menu.hub.tab.pace": "TEMPO",
@@ -164,7 +164,7 @@
   "menu.hub.tab.events.grouprides": "GROEPSRITTEN",
   "menu.hub.tab.events.groupworkouts": "GROEPSTRAININGEN",
 
-  "menu.hub.header.ride": "Selecteer een route en bepaal je eigen snelheid",
+  "menu.hub.header.ride": "Selecteer een route in de wereld en bepaal je eigen snelheid",
   "menu.hub.header.pace": "Selecteer een tempobot om mee te rijden",
   "menu.hub.header.train": "Selecteer een training",
   "menu.hub.header.events": "Selecteer een wedstrijd om aan deel te nemen, of doe mee aan een groepsrit of groepstraining",
@@ -182,7 +182,7 @@
   "menu.hub.filter.intensitiesharder": "Intensief",
   "menu.hub.filter.intensitiestests": "Testen",
   "menu.hub.filter.workoutsall": "Alle Trainingen",
-  "menu.hub.filter.workoutscustom": "Aangepaste Training",
+  "menu.hub.filter.workoutscustom": "Aangepaste Trainingen",
   "menu.hub.filter.workoutsindievelo": "indieVelo Trainingen",
   "menu.hub.filter.workoutsscheduled": "Geplande Trainingen",
 
@@ -196,7 +196,7 @@
 
   "menu.hub.button.pairing": "KOPPEL UITRUSTING",
   "menu.hub.button.orgteam": "ORGANISEER TEAMS",
-  "menu.hub.button.orgevent": "ORGANISEER WEDSTRIJDEN",
+  "menu.hub.button.orgevent": "ORGANISEER EVENEMENT",
   "menu.hub.button.docs": "LICENTIE & DOCUMENTATIE",
   "menu.hub.button.logout": "WISSEL ACCOUNT",
   "menu.hub.button.exit": "OPSLAAN & AFSLUITEN",
@@ -315,13 +315,13 @@
   "menu.worldoptions.tab.results": "RESULTATEN",
   "menu.worldoptions.tab.summary": "SAMENVATTING",
 
-  "menu.worldoptions.header.analysis": "Onderzoek hoe je vermogen, cadans en hartslag varieerden gedurende de rit",
+  "menu.worldoptions.header.analysis": "Bekijk hoe je vermogen, cadans en hartslag varieerden gedurende de rit",
   "menu.worldoptions.header.analysispower": "Power Verdeling",
   "menu.worldoptions.header.analysiscadence": "Cadans Verdeling",
   "menu.worldoptions.header.analysisheartrate": "Hartslag Verdeling",
   "menu.worldoptions.header.cp": "Bekijk je kritisch vermogen",
   "menu.worldoptions.header.resultsconfirmed": "Eindresultaat - {0} Finishers",
-  "menu.worldoptions.header.resultsprovisional": "Resultaten tot nu toe - {0} Nog te Finishen",
+  "menu.worldoptions.header.resultsprovisional": "Resultaten tot nu toe - {0} nog te finishen",
   "menu.worldoptions.header.summary": "Bekijk je rit tot nu toe",
 
   "status.breakon": "Neem een pauze",
