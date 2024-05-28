@@ -336,8 +336,8 @@
   "status.hudhide": "HUD Daten ausblenden",
   "status.hudshow": "HUD Daten anzeigen",
   "status.loggingin": "Einloggen",
-  "status.nearesthide": "Teilnehmer in der Nähe ausblenden",
-  "status.nearestshow": "Teilnehmer in der Nähe anzeigen",
+  "status.nearesthide": "Fahrer in der Nähe ausblenden",
+  "status.nearestshow": "Fahrer in der Nähe anzeigen",
   "status.networkerror": "Server Verbindung verloren - Wiederherstellung der Verbindung",
   "status.newlap": "Neue Runde",
   "status.nosignal": "Kein Signal",
@@ -355,5 +355,5 @@
 
   "ui.draft": "Windschatten",
   "ui.more": "mehr",
-  "ui.nearest": "Nächstgelegene Fahrer/innen"
+  "ui.nearest": "Fahrer in der Nähe"
 }
