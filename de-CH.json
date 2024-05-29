@@ -169,8 +169,8 @@
   "menu.hub.header.train": "Wähl es Training zum trainiere",
   "menu.hub.header.events": "Wähl e Verastaltig wo du gäge oder mit andere Lüt chasch fahre",
   "menu.hub.header.challenges": "Überprüef din Fortschritt i de Herusforderige vom {0} - no {1} {2}",
-  "menu.hub.header.profile": "Überprüef und aktualisier dis Profil",
-  "menu.hub.header.options": "Aktualisier dKonfiguration und anderi Istellige",
+  "menu.hub.header.profile": "Aktualisier dis Profil",
+  "menu.hub.header.options": "Aktualisier verschiedeni Istellige",
 
   "menu.hub.filter.durationsall": "Alli Fahrziite",
   "menu.hub.filter.durationstime": "Ungefähr {0} min",
