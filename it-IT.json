@@ -7,7 +7,7 @@
   "common.select": "SELEZIONA",
 
   "common.add": "AGGIUNGI",
-  "common.accept": "ACCEPT",
+  "common.accept": "ACCETTA",
   "common.active": "ATTIVO",
   "common.block": "BLOCCA",
   "common.blocked": "BLOCCCATO",
@@ -36,7 +36,7 @@
   "common.powermeter": "MISURATORE POTENZA",
   "common.remove": "RIMUOVI",
   "common.results": "RISULTATI",
-  "common.schedule": "SCHEDULE",
+  "common.schedule": "PIANIFICA",
   "common.settings": "IMPOSTAZIONI",
   "common.signup": "ISCRIVITI",
   "common.smarttrainer": "SMART TRAINER",
