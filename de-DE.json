@@ -75,7 +75,7 @@
   "menu.docscontrols.title": "STEUERUNGEN",
   "menu.docscredits.title": "ABSPANN",
   "menu.docseula.title": "LIZENZBEDINGUNGEN",
-  "menu.docsprivacy.title": "EINSTELLUNGEN PRIVATSPHÄRE",
+  "menu.docsprivacy.title": "PRIVATSPHÄRE",
   "menu.event.title": "EVENT DETAILS",
   "menu.eventorg.title": "EVENT ORGANISATION",
   "menu.eventorgadd.title": "NEUES EVENT HINZUFÜGEN",
@@ -168,7 +168,7 @@
   "menu.hub.header.pace": "Wählen Sie einen Pacebot aus, mit dem Sie durch die Welt fahren möchten",
   "menu.hub.header.train": "Wählen Sie ein Training aus, das Sie in der Welt fahren möchten",
   "menu.hub.header.events": "Wählen Sie eine Veranstaltung aus, bei der Sie mit anderen aus der ganzen Welt fahren oder gegen sie antreten möchten",
-  "menu.hub.header.challenges": "Überprüfen Sie Ihren Fortschritt in {0} Herausforderungen - noch {1} {2} übrig",
+  "menu.hub.header.challenges": "Überprüfen Sie Ihren Fortschritt in den Herausforderungen vom {0} - noch {1} {2} übrig",
   "menu.hub.header.profile": "Überprüfen und aktualisieren Sie Ihr Spielerprofil",
   "menu.hub.header.options": "Aktualisieren Sie die Konfiguration und andere Einstellungen",
 
@@ -266,7 +266,7 @@
   "menu.profileftp.newrider": "Neue/r Fahrer/in",
   "menu.profileftp.commuter": "Pendler/in",
   "menu.profileftp.racingaverage": "Rennen Durchschnitt",
-  "menu.profileftp.welcome": "Functional Threshold Power (FTP - Funktionale Schwellenleistung) ist die maximale Leistung, die Sie 1 Stunde lang erbringen können. Dies ist ein nützliches Maß für Ihre Kraft und Fitness. indieVelo verwendet es, um den Schwierigkeitsgrad von Trainingseinheiten festzulegen und visuelle Rückmeldung darüber zu geben, wie hart Sie trainieren.",
+  "menu.profileftp.welcome": "Functional Threshold Power (FTP - Funktionale Schwellenleistung) ist die maximale Leistung, die Sie 1 Stunde lang erbringen können. Der Wert ist ein Mass für Ihre Kraft und Fitness. indieVelo verwendet es, um den Schwierigkeitsgrad von Trainingseinheiten festzulegen und visuelle Rückmeldung darüber zu geben, wie hart Sie trainieren.",
   "menu.profileftp.welcomeestimate": "Wenn Sie nicht wissen, wie hoch Ihr FTP-Wert ist, verwenden Sie bitte die folgenden Angaben als grobe Schätzung.",
   "menu.profileftp.welcomeinstructions": "Zunächst einmal ist es besser, eine zu niedrige Schätzung vorzunehmen, als eine zu hohe.",
 
