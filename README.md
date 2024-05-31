@@ -28,8 +28,6 @@ Currently indieVelo supports the following languages (note that the 2-2 letter c
 * zh-TW : Chinese (Traditional)
 
 The most requested additional languages we're aiming to add as soon as possible are (in rough order of number of riders):
-* Flemish
-* Austrian
 * Korean
 * Norwegian
 * Russian
@@ -38,6 +36,12 @@ The most requested additional languages we're aiming to add as soon as possible 
 * Hungarian
 
 Any other translations however would also be very gratefully received!
+
+# Style Guide
+A few notes based on feedback on translating:
+* In general an informal tone should be used.  For example, in French the "tu" form is preferred over "vous".
+* Please follow the same capitalisation as in the original en-GB text.  Some text is deliberately entirely upper-case (mostly non-sentences: headings / button labels etc), and some deliberately lower case (mostly sentences that are used within menus), and the translations should do the same.
+* The English phrase "Bring It On" doesn't necessarily translate literally!  This text is shown when you set a new Personal Best record, and should be translated into a suitably idiomatic victory shout / celebration.
 
 # How-To
 To make a contribution:
