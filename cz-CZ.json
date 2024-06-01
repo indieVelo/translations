@@ -172,7 +172,7 @@
   "menu.hub.header.profile": "Review and update your player profile",
   "menu.hub.header.options": "Update configuration and other settings",
 
-  "menu.hub.filter.durationsall": "All Durations",
+  "menu.hub.filter.durationsall": "Všechny doby událostí",
   "menu.hub.filter.durationstime": "Around {0} min",
   "menu.hub.filter.durationslonger": "Longer",
   "menu.hub.filter.intensitiesall": "All Intensities",
@@ -186,10 +186,10 @@
   "menu.hub.filter.workoutsindievelo": "indieVelo Workouts",
   "menu.hub.filter.workoutsscheduled": "Scheduled Workouts",
 
-  "menu.hub.sort.climbing": "Sort by Climbing",
+  "menu.hub.sort.climbing": "Třídit podle stoupání",
   "menu.hub.sort.completed": "Sort by Completed",
   "menu.hub.sort.default": "Default Sort Order",
-  "menu.hub.sort.distance": "Sort by Distance",
+  "menu.hub.sort.distance": "Třídit podle ",
   "menu.hub.sort.duration": "Sort by Duration",
   "menu.hub.sort.name": "Sort by Name",
   "menu.hub.sort.stress": "Sort by Stress",
