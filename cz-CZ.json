@@ -228,7 +228,7 @@
  "menu.login.password": "Heslo",
  "menu.login.passwordagain": "Znovu zadejte heslo",
  "menu.login.passwordreset": "RESETOVAT HESLO",
- "menu.login.recovery": "Chcete-li odeslat e-mail pro obnovení účtu na adresu:", vyberte resetování
+ "menu.login.recovery": "Chcete-li odeslat e-mail pro obnovení účtu na adresu:",
  "menu.login.recoverysent": "E-mail pro obnovení byl odeslán na adresu:",
  "menu.login.recoverycheck": "Podrobnosti o tom, jak resetovat heslo pro svůj účet, najdete ve svém e-mailu.",
  "menu.login.recoverydelay": "Z bezpečnostních důvodů může doručení této zprávy trvat až 1 hodinu.",
