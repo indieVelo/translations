@@ -39,7 +39,7 @@ Any other translations however would also be very gratefully received!
 
 # Style Guide
 A few miscellaneous notes based on experience from translating so far:
-* In general, an informal tone should be used.  For example, in French the "tu" form is preferred over "vous".
+* In general, an informal tone should be used.  For example, in French the "tu" form is preferred over "vous", or in German "du" rather than "sie".
 * Please follow the same capitalisation as in the original en-GB text.  Some text is deliberately entirely upper-case (mostly non-sentences: headings / button labels etc), and some deliberately lower case (mostly complete sentences that are used within menus), and the translations should do the same.
 * The English phrase "Bring It On" doesn't necessarily translate literally!  This text is shown when you set a new Personal Best record, and should be translated into a suitably idiomatic victory shout / celebration.
 
