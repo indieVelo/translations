@@ -53,7 +53,7 @@
   "common.lap": "Rundi",
   "common.laps": "Rundene",
 
-  "common.rankclimbing": "Rang Chläddere",
+  "common.rankclimbing": "Rang Höhemeter",
   "common.rankendurance": "Rang Usduur",
   "common.ranksprint": "Rang Sprint",
   "common.ranktimetrial": "Rang Ziitfahre",
@@ -214,7 +214,7 @@
   "menu.hub.button.connect": "VERBUNDENI KONTENE",
   "menu.hub.button.activity": "ALLI FAHRTE",
   "menu.hub.button.race": "ERGÄBNISS WETTRÄNNE",
-  "menu.hub.button.ranking": "RANG-VERLAUF",
+  "menu.hub.button.ranking": "RANGLISCHTE",
   "menu.hub.button.cp": "KRITISCHI LEISCHTIG",
   "menu.hub.button.spectate": "ZUELUEGE",
   "menu.hub.button.letsride": "GO GÜMMELE",
@@ -229,7 +229,7 @@
   "menu.login.criterialength": "12 Zeiche",
   "menu.login.criteriamatch": "Überiistimmig",
   "menu.login.createnewfailed": "Konto hät nöd chönne erstellt werde.",
-  "menu.login.createnewalreadyexists": "Es bestaht scho es Konto für die Adresse {0}.",
+  "menu.login.createnewalreadyexists": "Es bestaht scho es Konto für d Adresse {0}.",
   "menu.login.emailaddress": "Email Adresse",
   "menu.login.error": "indieVelo cha dAmäldeinformatione grad nöd prüäfe. Bitte versuechs spöter nomal.",
   "menu.login.password": "Passwort",
@@ -241,9 +241,9 @@
   "menu.login.recoverydelay": "Us Sicherheitsgründ chan es bis zunere Stund ga, bis sE-Mail achunnt.",
   "menu.login.rememberme": "Agmäldet bliibe",
   "menu.login.remembermefailed": "D Amäldig mit em gspicherte Konto hät nöd klappt.",
-  "menu.login.remembermefailedreason": "Das liegt i de Regel dra, dass sKonto derzit ufemne andere Grät gspicheret isch und us Sicherheitsgründ auf dem Grät hier blockiert worde isch.",
+  "menu.login.remembermefailedreason": "S liegt i de Regel dra, dass sKonto derzit ufemne andere Grät gspicheret isch und us Sicherheitsgründ auf dem Grät hier blockiert worde isch.",
   "menu.login.remembermefailedtryagain": "Bitte versuech dich mit E-Mail-Adresse und Passwort nomal azmelde.",
-  "menu.login.welcome": "Willkomme bi indieVelo!",
+  "menu.login.welcome": "Ja salü du bi indieVelo!",
   "menu.login.welcomeinstructions": "Bitte gib dini E-Mail-Adresse und es Passwort mit 12 oder meh Zeiche ii.",
 
   "menu.pairing.devicefound": "GRÄT GFUNDE",
@@ -266,7 +266,7 @@
   "menu.profileftp.newrider": "Neue/i Fahrer/in",
   "menu.profileftp.commuter": "Pändler/in",
   "menu.profileftp.racingaverage": "Wettränne Durchschnitt",
-  "menu.profileftp.welcome": "Functional Threshold Power (FTP - Funktionali Schwelleleistig) isch die maximali Leistig, wo du 1 Stund lang leiste chasch. de Wert beschriebt dini Chraft und Fitness. indieVelo verwändet de Wert, zum de Schwierigkeitsgrad vo Trainingseinheite festzlegge und visuelli Rückmäldige drüber zgä, wie intensiv du trainiersch.",
+  "menu.profileftp.welcome": "Functional Threshold Power (FTP - Funktionali Schwelleleistig) isch d maximali Leistig, wo du 1 Stund lang leiste chasch. de Wert beschriebt dini Chraft und Fitness. indieVelo verwändet de Wert, zum de Schwierigkeitsgrad vo Trainingseinheite festzlegge und visuelli Rückmäldige drüber zgä, wie intensiv du trainiersch.",
   "menu.profileftp.welcomeestimate": "Wenn du nöd weisch, wie hoch din FTP isch, bruch bitte folgendi Agabe als grobi Schätzig.",
   "menu.profileftp.welcomeinstructions": "Für de Afang isch es besser, e zu niedrigi Schätzig zmache, als e zu hohi.",
 
@@ -284,7 +284,7 @@
   "menu.profileprivate.unitsmetric": "metrisch",
   "menu.profileprivate.weight": "Gwicht",
   "menu.profileprivate.welcome": "Dis Profil isch für anderi Benutzer sichtbar und wird verwändet, zum dini Gschwindigkeit im Spiel zbestimme.",
-  "menu.profileprivate.welcomeinstructions": "Bitte gib genaui und aktuelli Informatione ah, zum realistischi Ergäbniss zgwährleiste.",
+  "menu.profileprivate.welcomeinstructions": "Bitte gib gnaui und aktuelli Informatione ah, zum realistischi Ergäbniss zgwährleiste.",
 
   "menu.team.sendemail": "EMAIL SCHICKE",
   "menu.team.sentemail": "E-MAIL GSCHICKT",
@@ -307,8 +307,8 @@
   "menu.team.filter.ridersmale": "Nur Männer",
   "menu.team.filter.ridersfemale": "Nur Fraue",
 
-  "menu.worldchat.block": "Die Person durhaft blockiere",
-  "menu.worldchat.mute": "Die Person für de Rest vo de Aktivität stummschalte",
+  "menu.worldchat.block": "D Person durhaft blockiere",
+  "menu.worldchat.mute": "D Person für de Rescht vo de Aktivität stummschalte",
 
   "menu.worldoptions.tab.analysis": "ANALYSE",
   "menu.worldoptions.tab.cp": "KL",
