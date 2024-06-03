@@ -246,8 +246,8 @@
   "menu.login.welcome": "Üdvözlünk az indieVelo-ban!",
   "menu.login.welcomeinstructions": "Kérlek add meg az email címed és egy jelszót, mely legalább 12 karakter hosszú.",
 
-  "menu.pairing.devicefound": "ESZKÖZ MEGTALÁLVA",
-  "menu.pairing.devicesfound": "ESZKÖZÖK MEGTALÁLVA",
+  "menu.pairing.devicefound": "ESZKÖZ TALÁLHATÓ",
+  "menu.pairing.devicesfound": "ESZKÖZ TALÁLHATÓ",
   "menu.pairing.status.connected": "CSATLAKOZTATVA",
   "menu.pairing.status.nosignal": "NINCS JEL",
   "menu.pairing.status.notpaired": "NINCS PÁROSÍTVA",
