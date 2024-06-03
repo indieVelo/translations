@@ -11,7 +11,11 @@
   "common.active": "AKTIV",
   "common.block": "BLOCKIEREN",
   "common.blocked": "BLOCKIERT",
+<<<<<<< main
   "common.bringiton": "KLASSE LEISTUNG",
+=======
+  "common.bringiton": "LOS GEHT'S",
+>>>>>>> main
   "common.cadence": "TRITTFREQUENZ",
   "common.calibrate": "KALIBRIEREN",
   "common.country": "LAND",
@@ -26,7 +30,7 @@
   "common.join": "BEITRETEN",
   "common.leave": "VERLASSEN",
   "common.local": "LOKAL",
-  "common.menu": "MENU",
+  "common.menu": "MENÜ",
   "common.members": "MITGLIEDER",
   "common.more": "MEHR",
   "common.mute": "STUMM",
@@ -53,7 +57,7 @@
   "common.lap": "Runde",
   "common.laps": "Runden",
 
-  "common.rankclimbing": "Rang Klettern",
+  "common.rankclimbing": "Rang Höhenmeter",
   "common.rankendurance": "Rang Ausdauer",
   "common.ranksprint": "Rang Sprint",
   "common.ranktimetrial": "Rang Zeitfahren",
@@ -179,7 +183,7 @@
   "menu.hub.filter.intensitiesrecovery": "Erholung",
   "menu.hub.filter.intensitiesendurance": "Ausdauer",
   "menu.hub.filter.intensitiestempo": "Tempo",
-  "menu.hub.filter.intensitiesharder": "Härter",
+  "menu.hub.filter.intensitiesharder": "Härtere Intensitäten",
   "menu.hub.filter.intensitiestests": "Tests",
   "menu.hub.filter.workoutsall": "Alle Trainingseinheiten",
   "menu.hub.filter.workoutscustom": "Eigene Trainingseinheiten",
@@ -214,7 +218,7 @@
   "menu.hub.button.connect": "VERBUNDENE KONTEN",
   "menu.hub.button.activity": "AKTIVITÄTSVERLAUF",
   "menu.hub.button.race": "RENNERGEBNISSE",
-  "menu.hub.button.ranking": "RANG-VERLAUF",
+  "menu.hub.button.ranking": "RANGLISTE",
   "menu.hub.button.cp": "KRITISCHE LEISTUNG",
   "menu.hub.button.spectate": "ZUSCHAUEN",
   "menu.hub.button.letsride": "AUF GEHT'S ZUR FAHRT",
