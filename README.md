@@ -29,7 +29,7 @@ Currently indieVelo supports the following languages (note that the 2-2 letter c
 * sv-SE : Swedish
 * zh-TW : Chinese (Traditional)
 
-The most requested additional languages we're aiming to add are (in rough order of number of riders):
+Other languages it would be great to get help with translating are (in rough order of number of riders on indieVelo):
 * Korean
 * Norwegian
 * Russian
