@@ -11,7 +11,7 @@ Contributions are warmly welcomed from the entire community - both for correctio
 Please feel free to join the [indieVelo Discord](https://discord.gg/nY5u74u7Ak) to chat and share any thoughts, ideas or suggestions on translations (or anything else!). 
 
 # Current Languages
-Currently indieVelo supports the following languages (note that the 2-2 letter codes are ISO standard country-locales):
+Currently indieVelo supports the following languages (note that the 2-2 letter codes are [ISO standard country-locales](https://simplelocalize.io/data/locales/)):
 * cs-CZ : Czech
 * da-DK : Danish
 * de-CH : Swiss German
