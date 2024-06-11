@@ -11,14 +11,17 @@ Contributions are warmly welcomed from the entire community - both for correctio
 Please feel free to join the [indieVelo Discord](https://discord.gg/nY5u74u7Ak) to chat and share any thoughts, ideas or suggestions on translations (or anything else!). 
 
 # Current Languages
-Currently indieVelo supports the following languages (note that the 2-2 letter codes are ISO standard country-locales):
+Currently indieVelo supports the following languages (note that the 2-2 letter codes are [ISO standard country-locales](https://simplelocalize.io/data/locales/)):
+* cs-CZ : Czech
 * da-DK : Danish
 * de-CH : Swiss German
 * de-DE : German
 * en-GB : English
 * es-ES : Spanish
 * fr-FR : French
+* hu-HU : Hungarian
 * it-IT : Italian
+* ms-MY : Malay
 * nl-NL : Dutch
 * pl-PL : Polish
 * pt-PT : Portugeuse
@@ -27,17 +30,20 @@ Currently indieVelo supports the following languages (note that the 2-2 letter c
 * sv-SE : Swedish
 * zh-TW : Chinese (Traditional)
 
-The most requested additional languages we're aiming to add as soon as possible are (in rough order of number of riders):
-* Flemish
-* Austrian
+Other languages it would be great to get help with translating are (in rough order of number of riders on indieVelo):
 * Korean
 * Norwegian
 * Russian
 * Japanese
 * Finnish
-* Hungarian
 
 Any other translations however would also be very gratefully received!
+
+# Style Guide
+A few miscellaneous notes based on experience from translating so far:
+* In general, an informal tone should be used.  For example, in French the "tu" form is preferred over "vous", or in German "du" rather than "sie".
+* Please follow the same capitalisation as in the original en-GB text.  Some text is deliberately entirely upper-case (mostly non-sentences: headings / button labels etc), and some deliberately lower case (mostly complete sentences that are used within menus), and the translations should do the same.
+* The English phrase "Bring It On" doesn't necessarily translate literally!  This text is shown when you set a new Personal Best record, and should be translated into a suitably idiomatic victory shout / celebration.
 
 # How-To
 To make a contribution:
