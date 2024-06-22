@@ -11,7 +11,7 @@
   "common.active": "ATIVA",
   "common.block": "BLOQUEAR",
   "common.blocked": "BLOQUEADO",
-  "common.bringiton": "WOW...NOVO RECORD PESSOAL, VAMOS LÁ!",
+  "common.bringiton": "VAMOS LÁ!",
   "common.cadence": "CADÊNCIA",
   "common.calibrate": "CALIBRAR",
   "common.country": "PAÍS",
@@ -165,7 +165,7 @@
   "menu.hub.tab.events.groupworkouts": "TREINAMENTO EM GRUPO",
 
   "menu.hub.header.ride": "Selecione uma rota para pedalar no seu próprio ritmo pelo mundo",
-  "menu.hub.header.pace": "Selecione um "robô de ritmo" para viajar pelo mundo",
+  "menu.hub.header.pace": "Selecione um robô de ritmo para viajar pelo mundo",
   "menu.hub.header.train": "Selecione um treino para executar pelo mundo",
   "menu.hub.header.events": "Selecione um evento para participar ou competir contra outras pessoas de todo o mundo",
   "menu.hub.header.challenges": "Verifique seu progresso nos desafios de {0} - {1} {2} restantes",
