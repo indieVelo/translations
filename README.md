@@ -24,6 +24,7 @@ Currently indieVelo supports the following languages (note that the 2-2 letter c
 * ms-MY : Malay
 * nl-NL : Dutch
 * pl-PL : Polish
+* pt-BR : Brazilian
 * pt-PT : Portugeuse
 * ro-RO : Romanian
 * sl-SL : Slovenian
