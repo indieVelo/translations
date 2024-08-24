@@ -21,6 +21,7 @@ Currently indieVelo supports the following languages (note that the 2-2 letter c
 * fr-FR : French
 * hu-HU : Hungarian
 * it-IT : Italian
+* ja-JP : Japanese
 * ms-MY : Malay
 * nl-NL : Dutch
 * pl-PL : Polish
@@ -35,7 +36,6 @@ Other languages it would be great to get help with translating are (in rough ord
 * Korean
 * Norwegian
 * Russian
-* Japanese
 * Finnish
 
 Any other translations however would also be very gratefully received!
