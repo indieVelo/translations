@@ -28,6 +28,7 @@ Currently indieVelo supports the following languages (note that the 2-2 letter c
 * pt-BR : Brazilian
 * pt-PT : Portugeuse
 * ro-RO : Romanian
+* ru-RU : Russian
 * sl-SL : Slovenian
 * sv-SE : Swedish
 * zh-TW : Chinese (Traditional)
@@ -35,7 +36,6 @@ Currently indieVelo supports the following languages (note that the 2-2 letter c
 Other languages it would be great to get help with translating are (in rough order of number of riders on indieVelo):
 * Korean
 * Norwegian
-* Russian
 * Finnish
 
 Any other translations however would also be very gratefully received!
