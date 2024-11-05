@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://indievelo.com/wp-content/uploads/Icon_256_round.png" width=20% alt="TrainingPeaks Virtual Logo">
+  <img src="https://cdn.indievelo.com/Icon_512.png" width=20% alt="TrainingPeaks Virtual Logo">
 </p>
 <h1 align="center">TrainingPeaks Virtual<p>Translations</h1>
 
