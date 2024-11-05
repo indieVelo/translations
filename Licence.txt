@@ -1,6 +1,6 @@
-indieVelo EULA
+Beta Software EULA
 
-Please read this End User Licence Agreement (EULA), "the Agreement", which is a legally binding agreement between you, the end user ("you") and indieVelo Ltd of Oast Business Centre, North Frith Farm, Ashes Lane, Tonbridge, Kent, TN11 9QU, England ("indieVelo"), carefully before using indieVelo (computer software, data supplied with the software, documentation of the software, and any other facilities provided that relate to the software; collectively "the Product"). By continuing, accessing or using the Product you are agreeing to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, please do not click "Accept" or otherwise continue, access or use the Product.
+Please read this End User Licence Agreement (EULA), "the Agreement", which is a legally binding agreement between you, the end user ("you") and indieVelo Ltd of Oast Business Centre, North Frith Farm, Ashes Lane, Tonbridge, Kent, TN11 9QU, England ("indieVelo"), carefully before using TrainingPeaks Virtual (computer software, data supplied with the software, documentation of the software, and any other facilities provided that relate to the software; collectively "the Product"). By continuing, accessing or using the Product you are agreeing to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, please do not click "Accept" or otherwise continue, access or use the Product.
 
 Terms of Use: The Product is licenced, not sold, to you by indieVelo.  indieVelo reserves all rights in and to the Product.  The EULA may be modified at any time, at indieVelo's sole discretion, without your consent, effective immediately, and you agree to accept this condition.
 
