@@ -100,7 +100,6 @@
   "menu.eventorgview.title": "VOLTOOIDE WEDSTRIJDEN BEKIJKEN",
   "menu.eventpv.title": "PRESTATIEVERIFICATIE",
   "menu.eventrequirements.title": "WEDSTRIJD VEREISTEN",
-  "menu.founders.title": "INDIEVELO OPRICHTERS CLUB",
   "menu.hub.title": "DE HUB",
   "menu.languages.title": "TALEN",
   "menu.login.title": "INLOGGEN",
@@ -197,7 +196,7 @@
   "menu.hub.filter.intensitiestests": "Testen",
   "menu.hub.filter.workoutsall": "Alle Trainingen",
   "menu.hub.filter.workoutscustom": "Aangepaste Trainingen",
-  "menu.hub.filter.workoutsindievelo": "indieVelo Trainingen",
+  "menu.hub.filter.workoutsindievelo": "TrainingPeaks Virtual Trainingen",
   "menu.hub.filter.workoutsscheduled": "Geplande Trainingen",
 
   "menu.hub.sort.climbing": "Sorteer op Hoogteverschil",
@@ -257,7 +256,7 @@
   "menu.login.remembermefailed": "Kon niet inloggen met het onthouden account.",
   "menu.login.remembermefailedreason": "Waarschijnlijk wordt het account onthouden op een ander apparaat. Uit veiligheidsoverwegingen is het account doelbewust vergeten op dit apparaat.",
   "menu.login.remembermefailedtryagain": "Probeer het inloggen nogmaals met uw e-mailadres en wachtwoord.",
-  "menu.login.welcome": "Welkom bij indieVelo!",
+  "menu.login.welcome": "Welkom bij TrainingPeaks Virtual!",
   "menu.login.welcomeinstructions": "Vul uw e-mailadres in en een wachtwoord van 12 of meer karakters.",
 
   "menu.pairing.devicefound": "APPARAAT GEVONDEN",
@@ -280,7 +279,7 @@
   "menu.profileftp.newrider": "Nieuwe Rijder",
   "menu.profileftp.commuter": "Pendelaar",
   "menu.profileftp.racingaverage": "Race gemiddelde",
-  "menu.profileftp.welcome": "Functional Threshold Power (FTP) is het maximum vermogen dat je kan produceren gedurende 1 uur. Dit is een handige meting van kracht en fitness. indieVelo gebruikt het om de moeilijkheid te bepalen voor trainingen en geeft visuele terugkoppeling hoe hard je werkt.",
+  "menu.profileftp.welcome": "Functional Threshold Power (FTP) is het maximum vermogen dat je kan produceren gedurende 1 uur. Dit is een handige meting van kracht en fitness. TrainingPeaks Virtual gebruikt het om de moeilijkheid te bepalen voor trainingen en geeft visuele terugkoppeling hoe hard je werkt.",
   "menu.profileftp.welcomeestimate": "Als je niet weet wat je FTP is, gebruik het volgende als een ruwe schatting.",
   "menu.profileftp.welcomeinstructions": "Het is beter om lager in te schatten dan te hoog.",
 
@@ -304,8 +303,8 @@
   "menu.team.sentemail": "E-MAIL VERZONDEN",
   "menu.team.joined": "LID",
   "menu.team.viewallteams": "BEKIJK ALLE TEAMS",
-  "menu.team.welcome": "Optioneel, je kunt aanvragen indienen om lid te worden van één of meerdere indieVelo teams.",
-  "menu.team.welcomeinstructions": "E-mail help@indievelo.com om jouw eigen nieuwe team aan te maken en te bewerken.",
+  "menu.team.welcome": "Optioneel, je kunt aanvragen indienen om lid te worden van één of meerdere TrainingPeaks Virtual teams.",
+  "menu.team.welcomeinstructions": "E-mail virtual@trainingpeaks.com om jouw eigen nieuwe team aan te maken en te bewerken.",
 
   "menu.team.filter.joinrequest": "Lid worden door middel van aanvraag",
   "menu.team.filter.joininvite": "Lid worden door middel van uitnodiging",
