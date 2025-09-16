@@ -225,9 +225,9 @@
   "menu.hub.filter.workoutsindievelo":"TrainingPeaks 가상 workout",
   "menu.hub.filter.workoutsscheduled":"예정된 workout",
 
-  "menu.hub.sort.climbing":"등반순 정렬",
+  "menu.hub.sort.climbing":"획득고도순 정렬",
   "menu.hub.sort.completed":"완료순 정렬",
-  "menu.hub.sort.default":"기본 정렬 순서",
+  "menu.hub.sort.default":"기본 정렬",
   "menu.hub.sort.distance":"거리순 정렬",
   "menu.hub.sort.duration":"기간순 정렬",
   "menu.hub.sort.gradient":"경사도순 정렬",
