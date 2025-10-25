@@ -22,6 +22,7 @@ Currently TrainingPeaks Virtual supports the following languages (note that the 
 * hu-HU : Hungarian
 * it-IT : Italian
 * ja-JP : Japanese
+* ko-KR : Korean
 * ms-MY : Malay
 * nl-NL : Dutch
 * pl-PL : Polish
@@ -33,12 +34,7 @@ Currently TrainingPeaks Virtual supports the following languages (note that the 
 * sv-SE : Swedish
 * zh-TW : Chinese (Traditional)
 
-Other languages it would be great to get help with translating are (in rough order of number of riders on the platform):
-* Korean
-* Norwegian
-* Finnish
-
-Any other translations however would also be very gratefully received!
+Any other translations would also be very gratefully received!
 
 # Style Guide
 A few miscellaneous notes based on experience from translating so far:
